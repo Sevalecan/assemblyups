@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0096
+Date: 5.5.2022
+  Changes:
+    -intergration with krastorio 2 started. balanced some more of the machines. 
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0098
+Date: 5.29.2022
+  Changes:
+    - FIXED Game not loading due to DEEP_MINE_MK4_X10 does not exist sorry about that.Put machines in their own crafting tab in players inventory. made 10x versions of some of the 248k and space exporlation machines more to come. balanced some more of the machines. 
+---------------------------------------------------------------------------------------------------
+
+
