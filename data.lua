@@ -125,7 +125,6 @@ require("prototypes.plastic")
 require("prototypes.subgroups")
 
 require("prototypes.technology")
-require("prototypes.technologyass")
 require("prototypes.lab")
 require("prototypes.recipes")
 require("prototypes.machineX1000")
