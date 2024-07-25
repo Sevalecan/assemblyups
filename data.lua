@@ -1,5 +1,4 @@
 require("prototypes.category")
---require("prototypes.flying-robots")
 --248k
 require("prototypes.248k.248kx10")
 require("prototypes.248k.el_purifier")
